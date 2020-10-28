@@ -1,6 +1,7 @@
 Repository for all reference material used in the 1st workshop of Python- The Dynamite.
 
 **Content:**
+- **Python Cheat Sheet**
 - **Python Programs** by Rohit Yadav
 - **Python Language Basics deck** by Vatsal Srivastava
 - **Data Visualization Notebook** by Nimesh Kumar Nadar
